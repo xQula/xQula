@@ -7,7 +7,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 [![trophy](https://github-profile-trophy.vercel.app/?username=xQula)](https://github.com/xQula/github-profile-trophy)
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=xQula&theme=dark)](https://github.com/xQula/leetcode-stats)
+![Leetcode Stats](https://leetcard.jacoblin.cool/xQula)
 
 <!--
 **xQula/xQula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
